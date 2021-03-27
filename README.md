@@ -13,7 +13,7 @@ Example Input
 Example Output
 2
 ```
-<a href="https://github.com/gunasekharravilla/Coderbyte/blob/master/AgeCounting.js">Answer</a>
+<a href="https://github.com/gunasekharravilla/Coderbyte/blob/master/AgeCounting.js">AgeCounting Answer</a>
 
 
 Challenge
@@ -30,4 +30,4 @@ Input:["(2,1)", "(5,3)", "(6,3)", "(8,4)", "(3,4)", "(1,8)", "(7,7)", "(5,8)"]
 Output:"(5,3)"
 ```
 
-<a href="">Eight Queens Answer</a>
+<a href="https://github.com/gunasekharravilla/Coderbyte/blob/master/eightqueens.py">Eight Queens Answer</a>
